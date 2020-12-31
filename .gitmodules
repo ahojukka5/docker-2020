@@ -1,0 +1,3 @@
+[submodule "part-2/04/scaling-exercise"]
+	path = part-2/04/scaling-exercise
+	url = https://github.com/docker-hy/scaling-exercise.git
