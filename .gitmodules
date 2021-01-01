@@ -1,3 +1,12 @@
 [submodule "part-2/04/scaling-exercise"]
 	path = part-2/04/scaling-exercise
 	url = https://github.com/docker-hy/scaling-exercise.git
+[submodule "part-2/07/ml-kurkkumopo-training"]
+	path = part-2/07/ml-kurkkumopo-training
+	url = https://github.com/docker-hy/ml-kurkkumopo-training.git
+[submodule "part-2/07/ml-kurkkumopo-backend"]
+	path = part-2/07/ml-kurkkumopo-backend
+	url = https://github.com/docker-hy/ml-kurkkumopo-backend.git
+[submodule "part-2/07/ml-kurkkumopo-frontend"]
+	path = part-2/07/ml-kurkkumopo-frontend
+	url = https://github.com/docker-hy/ml-kurkkumopo-frontend.git
