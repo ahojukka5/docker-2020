@@ -173,7 +173,6 @@ RUN apt-get update && \
     apt-get purge -y --auto-remove git && \
     rm -rf /var/lib/apt/lists/*
 
-
 EXPOSE 5000
 
 ENTRYPOINT ["/usr/local/bin/serve"]
